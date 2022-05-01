@@ -35,4 +35,4 @@ jobs:
           platforms: linux/amd64
           push: true
           tags: |
-            ghcr.io/terrahost/yolks:wine_${{ matrix.tag }}
+            ghcr.io/parkervcp/yolks:wine_${{ matrix.tag }}
